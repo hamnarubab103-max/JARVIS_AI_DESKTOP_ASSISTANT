@@ -1,0 +1,18 @@
+QWidget {
+    background-color: #0b0f14;
+    color: #00e5ff;
+    font-family: Consolas;
+    font-size: 14px;
+}
+
+#PanelTitle {
+    font-size: 18px;
+    font-weight: bold;
+    color: #00bcd4;
+}
+
+#CoreLabel {
+    font-size: 28px;
+    font-weight: bold;
+    color: #00ffff;
+}
