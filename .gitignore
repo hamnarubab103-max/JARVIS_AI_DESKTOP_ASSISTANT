@@ -2,6 +2,6 @@ build/
 dist/
 _pycache_/
 *.pyc
+*.spec
 .env
-.venv/
-venv/
+*.zip

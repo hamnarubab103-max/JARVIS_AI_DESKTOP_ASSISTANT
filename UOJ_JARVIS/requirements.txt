@@ -1,4 +1,13 @@
-speechrecognition
+PyQt5
+SpeechRecognition
 pyttsx3
 psutil
 pyaudio
+openai
+anthropic
+pygame
+numpy
+requests
+wikipedia
+python-dotenv
+pywhatkit
